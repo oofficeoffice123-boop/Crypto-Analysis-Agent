@@ -1,0 +1,19 @@
+[theme]
+base = "dark"
+primaryColor = "#F7931A"
+backgroundColor = "#0B0E11"
+secondaryBackgroundColor = "#151A21"
+textColor = "#EAECEF"
+borderColor = "#252B34"
+font = "sans serif"
+baseRadius = "0.5rem"
+showSidebarBorder = true
+chartCategoricalColors = ["#F7931A", "#EAECEF", "#F5A623", "#8B949E"]
+dataframeHeaderBackgroundColor = "#151A21"
+dataframeHeaderTextColor = "#EAECEF"
+dataframeBorderColor = "#252B34"
+paddingTop = "1.5rem"
+paddingBottom = "1.5rem"
+
+[server]
+headless = true
